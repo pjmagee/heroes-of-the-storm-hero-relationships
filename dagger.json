@@ -1,0 +1,12 @@
+{
+  "name": "heroes-of-the-storm-hero-relationships",
+  "sdk": "go",
+  "dependencies": [
+    {
+      "name": "gh",
+      "source": "github.com/sagikazarmark/daggerverse/gh@b45dbd7448bb967aca4a538af9ce7f042abf0316"
+    }
+  ],
+  "source": "dagger",
+  "engineVersion": "v0.11.7"
+}

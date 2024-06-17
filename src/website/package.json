@@ -1,0 +1,14 @@
+{
+  "name": "@pjmagee/heroes-of-the-storm-hero-relationships",
+  "main": "950c9a5eda000b1d@576.js",
+  "version": "576.0.0",
+  "homepage": "https://observablehq.com/@pjmagee/heroes-of-the-storm-hero-relationships",
+  "author": {
+    "name": "Patrick Magee",
+    "url": "https://observablehq.com/@pjmagee"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

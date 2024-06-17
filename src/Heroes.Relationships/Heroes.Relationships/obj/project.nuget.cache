@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ffnvKm82ie0=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\pjmagee\\heroes-of-the-storm-hero-relationships\\src\\Heroes.Relationships\\Heroes.Relationships\\Heroes.Relationships.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patri\\.nuget\\packages\\heroes.icons\\7.0.0\\heroes.icons.7.0.0.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\heroes.models\\6.0.0\\heroes.models.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
